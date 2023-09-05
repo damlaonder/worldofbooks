@@ -44,6 +44,8 @@ body{
   display: inline-block;
   width: 90px;
   vertical-align: top;
+  border-style: none solid none solid;
+  height: 86px;
 }
 
 .shelf{
@@ -60,3 +62,11 @@ body{
   
 }
 
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
