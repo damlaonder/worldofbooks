@@ -1,6 +1,7 @@
 ### world of books 
 
 ## about the project 
+Link: https://damlaonder.github.io/worldofbooks/
 
 This is my first personal project. Using HTML and CSS, I designed mock landing pages filled with the books I have read/want to read/am currently reading. 
 
